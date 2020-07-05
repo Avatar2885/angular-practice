@@ -1,1 +1,1 @@
-# angular-practice
+# angular-practice for Udemy course
